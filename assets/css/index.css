@@ -36,6 +36,12 @@ article p {
   font-size: 1rem;
 }
 
+.btn {
+  border-radius: 20px;
+  padding: 10px 25px;
+  font-weight: bold;
+}
+
 /* ==== Footer ==== */
 footer {
   background-color: #212529;
